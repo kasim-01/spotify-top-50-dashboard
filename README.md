@@ -23,10 +23,7 @@ Single-page (1280×720) dashboard analyzing track-level popularity, album compos
 - Power BI Desktop
 - DAX (measures, field parameters)
 - Power Query (data shaping)
-
-## Preview
-*(add a screenshot or GIF of the dashboard here)*
-
+- 
 ## How to Use
 1. Download `spotify_dashboard.pbix`
 2. Open in Power BI Desktop
